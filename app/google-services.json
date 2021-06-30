@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257447932967",
+    "firebase_url": "https://login-5325b.firebaseio.com",
+    "project_id": "login-5325b",
+    "storage_bucket": "login-5325b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257447932967:android:8a8284f1cba0af9cacca02",
+        "android_client_info": {
+          "package_name": "com.example.mygitam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257447932967-0rr33s0facdamna27fe6ad91nomsgs1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAy8lOfaToI4XHeVmgdl7sN9C_FwGmlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257447932967-0rr33s0facdamna27fe6ad91nomsgs1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

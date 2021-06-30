@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGitam</string>
+    <string name="semister_1">SEMISTER 1</string>
+    <string name="textview">TextView</string>
+    <string name="p_s"><![CDATA[P&S]]></string>
+    <string name="gmaterials"><![CDATA[GMaterials >]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
